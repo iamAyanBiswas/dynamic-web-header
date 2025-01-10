@@ -1,11 +1,12 @@
 {
   "name": "dynamic-web-header",
-  "version": "3.0.0",
+  "version": "1.0.1",
   "description": "This package will help devs to generate random values, numbers, strings etc.",
   "main": "dist/index.js",
   "scripts": {
     "test": "node dist/index.js",
-    "start": "tsc && node dist/index.js"
+    "start": "tsc && node dist/index.js",
+    "build":"tsc"
   },
   "repository": {
     "type": "git",

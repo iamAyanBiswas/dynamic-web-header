@@ -1,6 +1,6 @@
 {
   "name": "dynamic-web-header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package will help devs to generate random values, numbers, strings etc.",
   "main": "dist/index.js",
   "scripts": {
